@@ -1,2 +1,5 @@
-bower_components/*
-node_modules/*
+workspace.xml
+tasks.xml
+bower_components/
+node_modules/
+.idea/
